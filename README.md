@@ -1,11 +1,10 @@
-- 👋 Hello everyone
-- 👀 I’m interested in this Gamedev
-- 💞️ I'm looking for opportunities to collaborate with people from Gamedev
-- 📫 programmer with a lot of self-conceit,but in fact the game is an if-else
-My skills:C#,python,Unity,Rust(level of knowledge "Helloy Word")
-
-else(mail):
-
-print(vladtirma@gmail.com)
+I, like everyone else, have desires, dreams, and I chose a way to implement them using programming
+I will make my people's lives better, and I hope I'm not
+the only one, Let's improve the world
+My skills:C#,Python,Unity,C/C++,Blender(level of knowledge "Helloy Word")
+Public VC
+https://vk.com/evilcreator31
+Email 
+vladtirma@gmail.com
 
 
