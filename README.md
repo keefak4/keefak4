@@ -1,5 +1,2 @@
 
-Email 
-vladtirma@gmail.com
-
 
